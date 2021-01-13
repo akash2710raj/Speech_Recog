@@ -1,0 +1,6 @@
+pip install SpeechRecognisition
+pip install pyaudio
+pip install nltk
+pip install pylint
+pip install pydub
+pip install python==3.6.10
